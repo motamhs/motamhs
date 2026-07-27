@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
@@ -12,7 +11,7 @@
 <br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0A66C2&style=flat"
+  src="https://komarev.com/ghpvc/?username=motamhs&label=Profile%20views&color=0A66C2&style=flat"
   alt="Profile views"
 />
 
@@ -158,13 +157,13 @@ I enjoy creating solutions that connect software development, process automation
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=motamhs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
   alt="GitHub statistics"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=motamhs&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
   alt="Most used languages"
 />
 
@@ -175,7 +174,7 @@ I enjoy creating solutions that connect software development, process automation
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=motamhs&theme=github-dark-blue&hide_border=true"
   alt="GitHub contribution streak"
 />
 
