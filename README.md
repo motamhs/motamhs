@@ -72,22 +72,66 @@ I currently work with different technologies related to web development, back-en
 ### 📊 Automation, data, and productivity
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" alt="n8n" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="35" alt="Power Automate" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="35" alt="Microsoft Office" />
+  <img
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
+    height="42"
+    alt="Power BI"
+    title="Power BI"
+  />
+  <img width="14" />
+
+  <img
+    src="https://cdn.simpleicons.org/n8n/EA4B71"
+    height="42"
+    alt="n8n"
+    title="n8n"
+  />
+  <img width="14" />
+
+  <img
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg"
+    height="42"
+    alt="Power Automate"
+    title="Power Automate"
+  />
+  <img width="14" />
+
+  <img
+    src="https://img.icons8.com/color/48/microsoft-office-2019.png"
+    height="42"
+    alt="Microsoft Office"
+    title="Microsoft Office"
+  />
 </div>
 
 ## 📫 Get in touch
 
 <div align="left">
-  <a href="https://www.instagram.com/mota.mhtt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  <a
+    href="https://www.instagram.com/mota.mhtt"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      height="38"
+      alt="Instagram"
+      title="Instagram"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-mota-8792b9324/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+
+  <img width="14" />
+
+  <a
+    href="https://www.linkedin.com/in/matheus-mota-8792b9324/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      height="38"
+      alt="LinkedIn"
+      title="LinkedIn"
+    />
   </a>
 </div>
