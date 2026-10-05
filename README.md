@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi! I'm Matheus Mota de Abreu 👋
+# Hi! I'm Matheus Mota de Abreu 
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+at+Bosch;Focused+on+Automation+and+Data;Building+solutions+with+technology;Always+learning+and+improving"
@@ -29,11 +29,11 @@ I'm 18 years old and currently work as a **Full Stack Developer at Bosch**, with
 
 I enjoy creating solutions that connect software development, process automation, and data analysis. My goal is to continuously improve my skills, take on new challenges, and grow professionally in the technology field.
 
-- 💼 Full Stack Developer at **Bosch**
-- 📊 Focused on **automation and data**
-- ⚙️ Interested in process optimization and system development
-- 🚀 Always learning and exploring new technologies
-- 🎯 Currently growing my knowledge in full stack development
+- Full Stack Developer at **Bosch**
+- Focused on **automation and data**
+- Interested in process optimization and system development
+- Always learning and exploring new technologies
+- Currently growing my knowledge in full stack development
 
 <br clear="both">
 
@@ -41,7 +41,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-## 🎯 Current focus
+## Current focus
 
 <div align="left">
 
@@ -146,7 +146,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <!-- ===================== CONTACT ===================== -->
 
-## 📫 Get in touch
+## Get in touch
 
 <div align="left">
 
@@ -170,6 +170,6 @@ I enjoy creating solutions that connect software development, process automation
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### Thanks for visiting my profile!
 
 </div>
