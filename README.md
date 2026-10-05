@@ -23,7 +23,7 @@
   alt="Programming animation"
 />
 
-## 👨‍💻 About me
+## About me
 
 I'm 18 years old and currently work as a **Full Stack Developer at Bosch**, with a focus on **automation and data**.
 
@@ -56,9 +56,9 @@ I enjoy creating solutions that connect software development, process automation
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🛠️ Technologies and tools
+## Technologies and tools
 
-### 🎨 Front-end
+### Front-end
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
@@ -78,7 +78,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <br>
 
-### ⚙️ Back-end
+### Back-end
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
@@ -94,7 +94,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <br>
 
-### 🗄️ Databases
+### Databases
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />
@@ -106,7 +106,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <br>
 
-### 📱 Mobile development
+### Mobile development
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter" />
@@ -116,7 +116,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <br>
 
-### 📊 Automation, data, and productivity
+### Automation, data, and productivity
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45" alt="Power BI" title="Power BI" />
@@ -130,7 +130,7 @@ I enjoy creating solutions that connect software development, process automation
 
 <br>
 
-### 🔧 Development tools
+### Development tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
